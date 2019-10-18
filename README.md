@@ -1,5 +1,4 @@
-# oop_exercise_02
-class IPAddress with useful functions
+# oop_exercise_03
 
 in bash:
 - "cmake cmakelists.txt"

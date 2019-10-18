@@ -3,9 +3,9 @@
 in bash:
 - "cmake cmakelists.txt"
 - "make"
-- "./exercise_01" to start the programm
+- "./exercise" to start the programm
 - or
-- "./exercise_02 < test_01.txt" or "./exercise_02 < test_02.txt" to use standart tests
+- "./exercise < test_01.txt" or "./exercise < test_02.txt" to use standart tests
 
 more info(in Russian):
 - report.docx
